@@ -84,7 +84,7 @@ Supported Cars
 | Honda                | [Pilot 2019](https://carbuzz.com/cars/honda/pilot)               | All                  | Yes     | Yes            | 25mph<sup>1</sup>| 12mph          | Inverted Nidec    |
 | Honda                | [Ridgeline 2017-19](https://carbuzz.com/cars/honda/ridgeline)        | Honda Sensing        | Yes     | Yes            | 25mph<sup>1</sup>| 12mph          | Nidec             |
 | Hyundai              | [Santa Fe 2019](https://carbuzz.com/cars/hyundai/santa-fe)            | All                  | Yes     | Stock          | 0mph             | 0mph           | Custom<sup>6</sup>|
-| Hyundai              | [Elantra 2017] (https://carbuzz.com/cars/hyundai/elantra/2017)             | SCC + LKAS           | Yes     | Stock          | 19mph            | 34mph          | Custom<sup>6</sup>|
+| Hyundai              | [Elantra 2017](https://carbuzz.com/cars/hyundai/elantra/2017)             | SCC + LKAS           | Yes     | Stock          | 19mph            | 34mph          | Custom<sup>6</sup>|
 | Hyundai              | Genesis 2018             | All                  | Yes     | Stock          | 19mph            | 34mph          | Custom<sup>6</sup>|
 | Jeep                 | Grand Cherokee 2017-18   | Adaptive Cruise      | Yes     | Stock          | 0mph             | 9mph           | FCA               |
 | Jeep                 | Grand Cherokee 2019      | Adaptive Cruise      | Yes     | Stock          | 0mph             | 39mph          | FCA               |
